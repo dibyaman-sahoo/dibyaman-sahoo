@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hands-astronaut-banner.svg" width="100%" alt="Dibyaman Sahoo banner" />
+<img src="creation_float_green_banner.gif" width="100%" alt="Dibyaman Sahoo banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyaman+Sahoo;Full-Stack+Developer;Java+%2B+Spring+Boot+%2B+AWS;Building+Reliable+Backend+Systems" alt="Typing SVG" />
 
