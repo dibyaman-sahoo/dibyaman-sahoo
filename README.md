@@ -132,17 +132,17 @@ Full-stack real-time chat application built with Spring Boot and WebSocket, enab
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dibyaman's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=dark&hide_border=true" alt="Dibyaman's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=dark&hide_border=true" alt="Dibyaman's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyaman-sahoo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dibyaman-sahoo&theme=dark&hide_border=true" alt="Dibyaman's GitHub Streak"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyaman-sahoo&theme=react-dark&hide_border=true" alt="Dibyaman's Activity Graph" width="90%"/>
 </p>
-
----
-
-<div align="center">
 
 ### 📬 Have a project in mind?
 
