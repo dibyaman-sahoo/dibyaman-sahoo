@@ -71,10 +71,10 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 </p>
 
 ---
-
 ## 📈 Skills
- 
+
 <div align="center">
+
 | | |
 |---|---|
 | ![HTML](https://img.shields.io/badge/HTML-85%25-00FF41?style=for-the-badge&labelColor=000000) | ![CSS](https://img.shields.io/badge/CSS-80%25-00FF41?style=for-the-badge&labelColor=000000) |
@@ -83,7 +83,7 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 | ![MySQL](https://img.shields.io/badge/MySQL-65%25-00FF41?style=for-the-badge&labelColor=000000) | ![Oracle](https://img.shields.io/badge/Oracle-45%25-00FF41?style=for-the-badge&labelColor=000000) |
 | ![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda)-75%25-00FF41?style=for-the-badge&labelColor=000000) | ![DevOps](https://img.shields.io/badge/DevOps-55%25-00FF41?style=for-the-badge&labelColor=000000) |
 | ![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-70%25-00FF41?style=for-the-badge&labelColor=000000) | ![ROS](https://img.shields.io/badge/ROS-35%25-00FF41?style=for-the-badge&labelColor=000000) |
- 
+
 </div>
 
 ---
