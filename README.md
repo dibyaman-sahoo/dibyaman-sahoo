@@ -85,17 +85,17 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 </div>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Contributor-00FF41?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=0D1117" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=dibyaman-sahoo&theme=react&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
+  <a href="https://github.com/dibyaman-sahoo">
+    <img src="https://ghchart.rshah.org/00FF41/dibyaman-sahoo" alt="dibyaman-sahoo's Github chart" />
+  </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyaman-sahoo&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" />
-</div>
-
 
 
 ---
