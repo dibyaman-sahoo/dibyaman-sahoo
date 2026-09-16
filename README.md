@@ -89,17 +89,14 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=react&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=react&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
 </div>
 
 <div align="center">
-
-![dibyaman-sahoo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dibyaman-sahoo&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyaman-sahoo&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" />
 </div>
+
 
 ---
 
