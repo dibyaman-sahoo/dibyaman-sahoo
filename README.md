@@ -73,18 +73,17 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 ---
 
 ## 📈 Skills
-
+ 
 <div align="center">
-
 | | |
 |---|---|
-| <img src="https://progress-bar.dev/85/?title=HTML&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/80/?title=CSS&width=180&color=00FF41" /> |
-| <img src="https://progress-bar.dev/70/?title=JavaScript&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/75/?title=Java&width=180&color=00FF41" /> |
-| <img src="https://progress-bar.dev/65/?title=Spring+Boot&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/78/?title=MongoDB&width=180&color=00FF41" /> |
-| <img src="https://progress-bar.dev/65/?title=MySQL&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/45/?title=Oracle&width=180&color=00FF41" /> |
-| <img src="https://progress-bar.dev/75/?title=AWS+(EC2%2C+S3%2C+Lambda)&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/55/?title=DevOps&width=180&color=00FF41" /> |
-| <img src="https://progress-bar.dev/70/?title=Git+%2F+GitHub&width=180&color=00FF41" /> | <img src="https://progress-bar.dev/35/?title=ROS&width=180&color=00FF41" /> |
-
+| ![HTML](https://img.shields.io/badge/HTML-85%25-00FF41?style=for-the-badge&labelColor=000000) | ![CSS](https://img.shields.io/badge/CSS-80%25-00FF41?style=for-the-badge&labelColor=000000) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-00FF41?style=for-the-badge&labelColor=000000) | ![Java](https://img.shields.io/badge/Java-75%25-00FF41?style=for-the-badge&labelColor=000000) |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-65%25-00FF41?style=for-the-badge&labelColor=000000) | ![MongoDB](https://img.shields.io/badge/MongoDB-78%25-00FF41?style=for-the-badge&labelColor=000000) |
+| ![MySQL](https://img.shields.io/badge/MySQL-65%25-00FF41?style=for-the-badge&labelColor=000000) | ![Oracle](https://img.shields.io/badge/Oracle-45%25-00FF41?style=for-the-badge&labelColor=000000) |
+| ![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda)-75%25-00FF41?style=for-the-badge&labelColor=000000) | ![DevOps](https://img.shields.io/badge/DevOps-55%25-00FF41?style=for-the-badge&labelColor=000000) |
+| ![Git/GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-70%25-00FF41?style=for-the-badge&labelColor=000000) | ![ROS](https://img.shields.io/badge/ROS-35%25-00FF41?style=for-the-badge&labelColor=000000) |
+ 
 </div>
 
 ---
