@@ -38,7 +38,7 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 <a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" title="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:sahoodibyaman@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" title="Gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/al0ckx" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="38" height="38" style="filter: invert(1);" title="Instagram"/></a>&nbsp;&nbsp;&nbsp;
-<a href="tel:+919777968156"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phone.svg" width="38" height="38" style="filter: invert(1);" title="Call"/></a>
+<a href="tel:+919777968156"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phone.svg" width="38" height="38" style="filter: invert(1);" title="Call"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
