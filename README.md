@@ -27,7 +27,7 @@
 
 ---
 
-## 🎮 PLAYER PROFILE
+🔗 ## 🎮 PLAYER PROFILE
 
 ```yaml
 Class:          Software Engineer (Backend/Cloud Build)
@@ -45,7 +45,32 @@ reliable code.
 
 ---
 
-## 🕹️ TECH STACK — INVENTORY
+🔗 ## 📡 CONNECT WITH PLAYER ONE
+
+<div align="center">
+
+### 🎯 Let's team up — I'm actively looking for opportunities in Cloud & Backend Engineering!
+
+<a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
+</a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=sahoodibyaman@gmail.com&su=Hello%20Dibyaman&body=Hello%20Dibyaman&tf=cm" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email Me" height="45" />
+</a>
+
+<a href="tel:+919777968156">
+  <img src="https://img.shields.io/badge/CALL_ME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000" height="45" alt="Call Me" />
+</a>
+
+<br/><br/>
+
+**⭐ Press LinkedIn above to send a connection request — always happy to network, collaborate, or talk opportunities!**
+
+</div>
+
+---
+
+🔗 ## 🕹️ TECH STACK — INVENTORY
 
 <div align="center">
 
@@ -84,7 +109,24 @@ reliable code.
 </div>
 
 ---
-## 📅 CONTRIBUTION CALENDAR
+
+🔗 ## 📊 PLAYER STATS
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=REPOS&query=%24.public_repos&color=00FF41&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=FOLLOWERS&query=%24.followers&color=00FF41&style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+🔗 ## 📅 CONTRIBUTION CALENDAR
 
 <div align="center">
 
@@ -95,15 +137,14 @@ reliable code.
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
 
 </div>
 
 ---
 
-## 🏆 QUEST LOG — WORK EXPERIENCE
+🔗 ## 🏆 QUEST LOG — WORK EXPERIENCE
 
 ### 🟢 Cloud Computing Engineer Intern — *Devsindia* (Remote)
 **Jan 2024 – Oct 2024**
@@ -121,7 +162,7 @@ reliable code.
 
 ---
 
-## 🎖️ ACHIEVEMENTS UNLOCKED — CERTIFICATIONS
+🔗 ## 🎖️ ACHIEVEMENTS UNLOCKED — CERTIFICATIONS
 
 <div align="center">
 
@@ -144,23 +185,9 @@ reliable code.
 
 </div>
 
-## 📊 PLAYER STATS
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=REPOS&query=%24.public_repos&color=00FF41&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=FOLLOWERS&query=%24.followers&color=00FF41&style=for-the-badge&logo=github)
-
-</div>
-
 ---
 
-## 🎓 EDUCATION LOG
+🔗 ## 🎓 EDUCATION LOG
 
 | Stage | Institution | Duration |
 |---|---|---|
@@ -168,30 +195,6 @@ reliable code.
 | 🏫 Higher Secondary | Rameswar Higher Secondary School, Bhadrak | Jan 2020 – Jan 2022 |
 | 🏫 Secondary | B M Bagurai Nodal High School, Bhadrak | Jan 2015 – Jan 2020 |
 
----
-
-## 📡 CONNECT WITH PLAYER ONE
-
-<div align="center">
-
-### 🎯 Let's team up — I'm actively looking for opportunities in Cloud & Backend Engineering!
-
-<a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
-</a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=sahoodibyaman@gmail.com&su=Hello%20Dibyaman&body=Hello%20Dibyaman&tf=cm" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email Me" height="45" />
-</a>
-
-<a href="tel:+919777968156">
-  <img src="https://img.shields.io/badge/CALL_ME-00FF41?style=for-the-badge&logoColor=black&labelColor=000000" height="45" alt="Call Me" />
-</a>
-
-<br/><br/>
-
-**⭐ Press LinkedIn above to send a connection request — always happy to network, collaborate, or talk opportunities!**
-
-</div>
 ---
 
 <div align="center">
