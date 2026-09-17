@@ -90,15 +90,6 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 <div align="center">
   <img src="https://raw.githubusercontent.com/dibyaman-sahoo/dibyaman-sahoo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Dibyaman's 3D Contribution Graph" width="100%" />
 </div>
-
-<h3 align="center">🐍 Contributions Snake</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/dibyaman-sahoo/dibyaman-sahoo/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
 ---
 
 ## 💼 Featured Work
