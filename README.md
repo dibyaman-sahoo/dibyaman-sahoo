@@ -96,8 +96,8 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dibyaman-sahoo/dibyaman-sahoo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Dibyaman's 3D Contribution Graph" width="100%" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyaman-sahoo&layout=compact&langs_count=10&hide=html,css)
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyaman-sahoo&layout=compact&langs_count=10&hide=html,css)
 
 
 
