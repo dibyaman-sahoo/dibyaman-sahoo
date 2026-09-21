@@ -17,7 +17,8 @@
 
 </div>
 
----
+
+
 
 ## 🚀 About Me
 
@@ -29,7 +30,8 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 - ⚡ Quick to pick up new tools, works well in collaborative teams, and cares about writing clean, reliable code
 - 📍 Based in Bhubaneswar, Odisha, India
 
----
+
+
 
 ## 📡 Connect
 
@@ -39,7 +41,9 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 <a href="mailto:sahoodibyaman@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" title="Gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/al0ckx" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="38" height="38" style="filter: invert(1);" title="Instagram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
----
+
+
+
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +72,9 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
 </p>
 
----
+
+
+
 ## 📈 Skills
 
 <div align="center">
@@ -84,13 +90,16 @@ Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an
 
 </div>
 
----
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dibyaman-sahoo/dibyaman-sahoo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Dibyaman's 3D Contribution Graph" width="100%" />
 </div>
----
+
+
+
 
 ## 💼 Featured Work
 
@@ -110,7 +119,8 @@ Full-stack real-time chat application built with Spring Boot and WebSocket, enab
 
 [📂 Source Code](https://github.com/dibyaman-sahoo/FlowTalk) · [🚀 Live Demo](https://flowtalk-4ovp.onrender.com/)
 
----
+
+
 
 ## 🎖️ Certifications
 
@@ -134,7 +144,9 @@ Full-stack real-time chat application built with Spring Boot and WebSocket, enab
 
 </div>
 
----
+
+
+
 
 ## 🎓 Education
 
