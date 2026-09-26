@@ -22,10 +22,10 @@
 
 ## 🚀 About Me
 
-Adaptable Software Engineering graduate from **Bhubaneswar, Odisha**, seeking an entry-level Full-Stack Developer role — comfortable across core web technologies, Java backend systems, and database management, with hands-on AWS cloud deployment and DevOps basics from a 4-month internship.
+Adaptable Software Engineering graduate from **Bhubaneswar , Odisha**, seeking an entry-level Full-Stack Developer role — comfortable across core web technologies, Java backend systems, and database management, with hands-on AWS cloud deployment and DevOps basics from a 4-month internship.
 
 - 🎓 B.Tech in Computer Science & Engineering, Centurion University of Technology & Management (CUTM), Bhubaneswar
-- ☁️ Hands-on AWS cloud deployment experience (EC2, S3, Lambda, CloudWatch) from a 10-month internship at Devsindia
+- ☁️ Hands-on AWS cloud deployment experience (EC2, S3, Lambda, CloudWatch) from a 4-month internship at Devsindia
 - 🧠 Comfortable with Java backend systems, Spring Boot, and database management (MongoDB, MySQL, PostgreSQL, Oracle)
 - ⚡ Quick to pick up new tools, works well in collaborative teams, and cares about writing clean, reliable code
 - 📍 Based in Bhubaneswar, Odisha, India
