@@ -100,24 +100,25 @@ Adaptable Software Engineering graduate from **Bhubaneswar , Odisha**, seeking a
 
 
 
-
 ## 💼 Featured Work
 
-### ☁️ Cloud-Hosted Web Infrastructure & Application
-**Devsindia Internship · Jan – Oct 2024**
-`AWS EC2` `Elastic Load Balancing` `Auto Scaling` `MongoDB` `S3` `CloudWatch`
-
-Architected and deployed a scalable web app on AWS using EC2 for backend hosting, configured Elastic Load Balancing and Auto Scaling to handle variable traffic, and administered MongoDB workflows with static/media assets stored in S3.
-
-[🔗 View Issuer](https://www.devsindia.com/)
-
 ### 💬 Flowtalk – Real-Time Chat Application
+
 **Personal Project · 2026**
 `Spring Boot` `WebSocket` `JavaScript` `HTML/CSS`
 
 Full-stack real-time chat application built with Spring Boot and WebSocket, enabling instant two-user communication without page refreshes. Features a responsive chat interface, live message delivery, and seamless real-time interaction.
 
 [📂 Source Code](https://github.com/dibyaman-sahoo/FlowTalk) · [🚀 Live Demo](https://flowtalk-4ovp.onrender.com/)
+
+### 🧮 HackCal – Scientific Binary Calculator
+
+**Personal Project · 2026**
+`HTML` `CSS` `JavaScript`
+
+Scientific calculator supporting trigonometric, logarithmic, square-root, power, percentage, π, and e operations using vanilla JavaScript. Includes a recursive-descent expression parser, step-by-step binary calculation visualization, keyboard support, and a responsive interface.
+
+[📂 Source Code](https://github.com/dibyaman-sahoo/HackCal) · [🚀 Live Demo](https://dibyaman-sahoo.github.io/HackCal/)
 
 
 
