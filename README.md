@@ -9,7 +9,7 @@
 <a href="https://dibyaman-sahoo.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_SITE-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000" height="38"/>
 </a>
-<a href="https://drive.google.com/file/d/1p6m7IowjZGhEZe-Xf_7B-PDR7-ySPBUW/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1MCRvQdmknWHkf9xsdqoqMS1SORdLX_Wt/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_CV-RESUME-00FF41?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=000000" height="38"/>
 </a>
 
