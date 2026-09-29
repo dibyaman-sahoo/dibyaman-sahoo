@@ -36,6 +36,7 @@ Adaptable Software Engineering graduate from **Bhubaneswar , Odisha**, seeking a
 ## 📡 Connect
 
 <p align="center">
+  
   <a href="https://github.com/dibyaman-sahoo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
@@ -43,12 +44,15 @@ Adaptable Software Engineering graduate from **Bhubaneswar , Odisha**, seeking a
       <img src="https://cdn.simpleicons.org/github/8b949e" width="42" height="42" alt="GitHub" title="GitHub"/>
     </picture>
   </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/dibyaman-sahoo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:sahoodibyaman@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" title="Gmail"/>
   </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/al0ckx">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" title="Instagram"/>
   </a>
