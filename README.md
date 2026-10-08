@@ -117,6 +117,15 @@ Adaptable Software Engineering graduate from **Bhubaneswar , Odisha**, seeking a
 
 ## 💼 Featured Work
 
+### 📚 BookForward – Educational Book Resale Marketplace
+
+**Major Project · 2026**
+`Spring Boot` `PostgreSQL` `WebSocket` `JavaScript` `HTML/CSS` `Docker`
+
+Full-stack marketplace where students can buy and sell second-hand educational books. Includes secure signup and login with JWT authentication, book listings with image upload, and real-time messaging between buyers and sellers over WebSocket. The backend is a Spring Boot modular monolith with PostgreSQL, containerized with Docker and deployed on Render.
+
+[📂 Source Code](https://github.com/dibyaman-sahoo/BookForward) · [🚀 Live Demo](https://YOUR-FRONTEND-LINK.onrender.com/)
+
 ### 💬 Flowtalk – Real-Time Chat Application
 
 **Personal Project · 2026**
